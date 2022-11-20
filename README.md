@@ -13,11 +13,15 @@ The score of our predictions is the percentage of instances we correctly predict
 #### Train
 
 traindemo.csv - the training set for demographic data and the target  
+
 trainhealth.csv - the training set for health related  
+
 datatrainhabits.csv - the training set for habits related data 
 
 #### Test
 
-testdemo.csv - the test set for demographic data
-testhealth.csv - the test set for health related data
-testhabits.csv - the test set for habits related data 
+testdemo.csv - the test set for demographic data 
+
+testhealth.csv - the test set for health related data 
+
+testhabits.csv- the test set for habits related data 
